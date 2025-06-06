@@ -50,8 +50,8 @@ I'm a dedicated Software Engineering student with hands-on experience in web dev
 
 Here are some of my standout projects. Feel free to explore my pinned repositories on my profile for more details on the code and deployment!
 
-*   [**Digital Healthcare System**](https://github.com/nhhpbc7a1/digital-healthcare-system-repo) - *Clinic management and electronic health records system.*
-*   [**F&B Hub System**](https://github.com/nhhpbc7a1/fb-hub-system-repo) - *SaaS platform for restaurant management, featuring QR code ordering and integrated payment.*
+*   [**Digital Healthcare System**](https://github.com/nhhpbc7a1/FINAL_PROJECT_OOSE) - *Clinic management and electronic health records system.*
+*   [**F&B Hub System**](https://github.com/nhhpbc7a1/ECOM_Cafe_Project) - *SaaS platform for restaurant management, featuring QR code ordering and integrated payment.*
 
 *(**Note:** Please replace the placeholder URLs above with the actual links to your project repositories.)*
 
